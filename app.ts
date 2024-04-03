@@ -10,3 +10,5 @@ const res = skills
   .reduce((a, b) => a + b);
 
 console.log(res);
+
+console.log();
